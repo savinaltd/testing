@@ -11,6 +11,6 @@ if (!mkdir($structure, 0777, true)) {
 	echo "success";
 }
 
-echo "Third Commit test";
+echo "Forth Commit test";
 
 ?>
