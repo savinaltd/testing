@@ -8,7 +8,9 @@ $structure = 'C:\\Users\\Administrator\\Documents\\Follow Liker\\Share\\savinalt
 if (!mkdir($structure, 0777, true)) {
     die('Failed to create folders...');
 } else {
-	echo "success 123";
+	echo "success";
 }
+
+echo "Third Commit";
 
 ?>
